@@ -94,8 +94,7 @@ Here are some of the tools and technologies I work with:
 <a href="https://www.instagram.com/believeinmadhav/"><img src="https://img.shields.io/badge/Instagram-royalblue?logo=instagram" height="30"></a>
 
 ###
-
-🌟 **“Code is like humor. When you have to explain it, it’s bad.”**  
+ 
 Happy coding!
  
 
