@@ -8,7 +8,7 @@ Hi there! I'm Mahi Soni, a passionate MERN Developer who loves creating, learnin
 - 🌱 I’m currently learning **NextJs**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:  mahisoni908@gmail.com
-- ⚡ Fun fact: I am someone who loves thing: Coding. That's why you can call me Cosmo Coder.
+-  
 
 ## 🛠️ Technologies & Tools
 
