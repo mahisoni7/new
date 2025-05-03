@@ -1,6 +1,6 @@
 👋 Welcome to My GitHub Profile!
 
-Hi there! I'm Mahi Soni, a passionate MERN Developer who loves creating, learning sharing knowledge through code. 🌟
+Hi there! I'm Mahi Soni, a passionate MERN Developer who loves creating, learning sharing knowledge through code. 
 
 ## 🚀 About Me
 
